@@ -1,6 +1,6 @@
 # Nwāchā Munā: A Devanagari Speech Corpus and Proximal Transfer Benchmark for Nepal Bhasha ASR
 
-> *Nwāchā Munā* (/nwa:tSa: muna:/) means "our voice" in Nepal Bhasha (Newari).
+> Nwāchā Munā (/nwa:tSa: muna:/) means “speech corpus” or "collection of speech" in Nepal Bhasha (Newari).
 
 ---
 
