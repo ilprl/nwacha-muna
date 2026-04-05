@@ -21,6 +21,8 @@ Our findings demonstrate that proximal transfer within South Asian language clus
 
 **Full Paper:** *To be linked upon publication at CHiPSAL @ LREC 2026*
 
+**Dataset and Models:** [Nwāchā Munā — Hugging Face Collection](https://huggingface.co/collections/ilprl-docse/nwacha-muna)
+
 
 ## Introduction
 
